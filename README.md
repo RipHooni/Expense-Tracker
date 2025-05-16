@@ -44,6 +44,7 @@ Command-line expense tracker built with Python:
 
 ## Usage
 1. Run the script with desired commands:
+   
    ex)
     ```sh
     python Tracker.py add --description lunch --amount 50
