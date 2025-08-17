@@ -3,11 +3,6 @@
 
 Command-line expense tracker built with Python:
 
-## Installation
-
-1. Clone the repository or download the source code.
-2. Navigate to the project directory in your terminal.
-
 ## Usage
 - **Add an Expense**: Record a new expense with a description and amount.
   ```sh
